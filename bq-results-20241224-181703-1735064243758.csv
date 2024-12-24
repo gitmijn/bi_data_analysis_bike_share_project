@@ -1,0 +1,11 @@
+usertype,zip_code_start,borough_start,neighborhood_start,zip_code_end,borough_end,neighborhood_end,start_day,stop_day,day_mean_temperature,day_mean_wind_speed,day_total_precipitation,trip_minutes,trip_count
+Subscriber,10010,Manhattan,Gramercy Park and Murray Hill,10012,Manhattan,Greenwich Village and Soho,2015-12-31,2015-12-31,46.5,3.0,0.19,10,14
+Customer,11211,Brooklyn,Greenpoint,10024,Manhattan,Upper West Side,2015-12-31,2016-01-03,46.5,3.0,0.19,4330,1
+Subscriber,10075,Manhattan,Upper East Side,10011,Manhattan,Chelsea and Clinton,2015-12-31,2015-12-31,46.5,3.0,0.19,40,2
+Subscriber,10022,Manhattan,Gramercy Park and Murray Hill,10001,Manhattan,Chelsea and Clinton,2015-12-31,2015-12-31,46.5,3.0,0.19,10,17
+Subscriber,10280,Manhattan,Lower Manhattan,10004,Manhattan,Lower Manhattan,2015-12-31,2016-01-01,46.5,3.0,0.19,950,1
+Subscriber,10128,Manhattan,Upper East Side,10028,Manhattan,Upper East Side,2015-12-31,2015-12-31,46.5,3.0,0.19,0,1
+Subscriber,10001,Manhattan,Chelsea and Clinton,10016,Manhattan,Gramercy Park and Murray Hill,2015-12-31,2015-12-31,46.5,3.0,0.19,10,90
+Customer,10021,Manhattan,Upper East Side,10065,Manhattan,Upper East Side,2015-12-31,2015-12-31,46.5,3.0,0.19,190,2
+Customer,11222,Brooklyn,Greenpoint,11205,Brooklyn,Northwest Brooklyn,2015-12-31,2015-12-31,46.5,3.0,0.19,30,2
+Subscriber,10001,Manhattan,Chelsea and Clinton,11222,Brooklyn,Greenpoint,2015-12-31,2015-12-31,46.5,3.0,0.19,30,1
