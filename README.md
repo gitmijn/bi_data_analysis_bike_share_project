@@ -1,1 +1,1 @@
-# bi_data_analysis_cyclistic_project
+# Business Intelligence for a Bike Share
